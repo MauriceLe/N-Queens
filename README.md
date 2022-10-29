@@ -3,7 +3,7 @@
 
 The aim of the N-Queens problem is to place N-Queens in such a manner on an NxN chessboard that no queens attack each other by being in the same row, column or diagonal.
 
-![](header.png)
+![](images/solution.png)
 
 ## Installation
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Procedure
 
-![](header.png)
+![](images/ga.png)
 
 - Step 1: Initilize start population
 - Step 2: Check if the fitness optimum is reached with the current population 
